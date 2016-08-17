@@ -1,4 +1,3 @@
-layout_spectrum: 0.05643276544287801
 typography_spectrum: 0.38038941053673625
 color:
   brandStrength: 0.3814564668573439
@@ -11,4 +10,6 @@ color:
     - '#005598'
     - '#81D5ED'
     - '#0089C0'
+layout_spectrum: 0.05643276544287801
 name: e'topia
+title: Scribes.Lab
