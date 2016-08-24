@@ -14,5 +14,9 @@ layout_spectrum: 0.05643276544287801
 logo: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/ca5ac5d5-9e8f-4ba5-9f75-83b7475624a1.eps
 name: e'topia
+navigation:
+  - name: FEATURE FILMS
+    id: 27c5e5fe-f9fb-47ed-bbe8-8284f934c14d
+    type: content
 title: Scribes.Lab
 description: project development for film and television
